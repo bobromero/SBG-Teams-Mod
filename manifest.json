@@ -1,0 +1,9 @@
+{
+    "name": "Super Battle Golf Teams Mod",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/bobromero/SBG-Teams-Mod",
+    "description": "Battle in teams in Super Battle Golf! See which team can finish their ball the fastest!",
+    "dependencies": [
+        "BepinexPack"
+    ]
+}
